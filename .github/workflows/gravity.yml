@@ -1,0 +1,28 @@
+name: Generate Gravity Animation
+
+on:
+  schedule:
+    - cron: "0 6 * * 0"
+  workflow_dispatch:
+
+jobs:
+  gravity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate Gravity SVG
+        uses: flycran/github-gravity@v1
+        with:
+          username: ghoshzsh
+          text: GHOSHZSH
+          output-path: dist/gravity.svg
+          background-color: "#0a192f"
+          text-color: "#64ffda"
+          font-size: "80"
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/
+          git commit -m "Update gravity animation" || echo "No changes to commit"
+          git push

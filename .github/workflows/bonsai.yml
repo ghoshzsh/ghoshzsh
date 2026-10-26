@@ -1,0 +1,23 @@
+name: Generate Git Bonsai
+
+on:
+  schedule:
+    - cron: "0 2 * * 0"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate Bonsai
+        uses: egorthinks/git-bonsai@v1
+        with:
+          output-path: dist/bonsai.png
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/
+          git commit -m "Update git bonsai" || echo "No changes to commit"
+          git push
