@@ -28,7 +28,9 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git stash
           git pull --rebase origin main
+          git stash pop || true
           git add dist/
           git commit -m "Update snake game" || echo "No changes to commit"
           git push
