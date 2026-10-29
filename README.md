@@ -31,65 +31,85 @@ I work where cybersecurity meets AI: ML-driven behavioural analytics, autonomous
 
 <table>
   <tr>
-    <td width="150"><b>Offensive</b></td>
+    <td width="170"><b>Core Competencies</b></td>
     <td>
-    <img src="https://img.shields.io/badge/Burp_Suite-0a192f?style=flat-square&logo=burpsuite&logoColor=64ffda" alt="Burp Suite" />
-    <img src="https://img.shields.io/badge/Metasploit-0a192f?style=flat-square&logo=metasploit&logoColor=64ffda" alt="Metasploit" />
-    <img src="https://img.shields.io/badge/Nmap-0a192f?style=flat-square" alt="Nmap" />
-    <img src="https://img.shields.io/badge/Cobalt_Strike-0a192f?style=flat-square" alt="Cobalt Strike" />
-    <img src="https://img.shields.io/badge/BloodHound-0a192f?style=flat-square&logo=neo4j&logoColor=64ffda" alt="BloodHound" />
+    <img src="https://img.shields.io/badge/SIEM_Engineering-0a192f?style=flat-square" alt="SIEM Engineering" />
+    <img src="https://img.shields.io/badge/Detection_Engineering-0a192f?style=flat-square" alt="Detection Engineering" />
+    <img src="https://img.shields.io/badge/ML_Threat_Detection-0a192f?style=flat-square" alt="ML Threat Detection" />
+    <img src="https://img.shields.io/badge/Threat_Hunting-0a192f?style=flat-square" alt="Threat Hunting" />
     <img src="https://img.shields.io/badge/MITRE_ATT%26CK-0a192f?style=flat-square" alt="MITRE ATT&CK" />
-    <img src="https://img.shields.io/badge/Kali_Linux-0a192f?style=flat-square&logo=kalilinux&logoColor=64ffda" alt="Kali Linux" />
+    <img src="https://img.shields.io/badge/Adversary_Emulation-0a192f?style=flat-square" alt="Adversary Emulation" />
+    <img src="https://img.shields.io/badge/Active_Directory_Security-0a192f?style=flat-square" alt="Active Directory Security" />
+    <img src="https://img.shields.io/badge/Cloud_Security-0a192f?style=flat-square" alt="Cloud Security" />
+    <img src="https://img.shields.io/badge/Incident_Response-0a192f?style=flat-square" alt="Incident Response" />
     </td>
   </tr>
   <tr>
-    <td width="150"><b>Defensive</b></td>
-    <td>
-    <img src="https://img.shields.io/badge/Splunk-0a192f?style=flat-square&logo=splunk&logoColor=64ffda" alt="Splunk" />
-    <img src="https://img.shields.io/badge/Elastic-0a192f?style=flat-square&logo=elasticsearch&logoColor=64ffda" alt="Elastic" />
-    <img src="https://img.shields.io/badge/Wazuh-0a192f?style=flat-square" alt="Wazuh" />
-    <img src="https://img.shields.io/badge/Zeek-0a192f?style=flat-square" alt="Zeek" />
-    <img src="https://img.shields.io/badge/Sysmon-0a192f?style=flat-square" alt="Sysmon" />
-    <img src="https://img.shields.io/badge/Sigma-0a192f?style=flat-square" alt="Sigma" />
-    <img src="https://img.shields.io/badge/Wireshark-0a192f?style=flat-square&logo=wireshark&logoColor=64ffda" alt="Wireshark" />
-    </td>
-  </tr>
-  <tr>
-    <td width="150"><b>AI and ML</b></td>
+    <td width="170"><b>Agent Engineering</b></td>
     <td>
     <img src="https://img.shields.io/badge/LangGraph-0a192f?style=flat-square&logo=langchain&logoColor=64ffda" alt="LangGraph" />
-    <img src="https://img.shields.io/badge/MCP-0a192f?style=flat-square&logo=modelcontextprotocol&logoColor=64ffda" alt="MCP" />
-    <img src="https://img.shields.io/badge/PyTorch-0a192f?style=flat-square&logo=pytorch&logoColor=64ffda" alt="PyTorch" />
-    <img src="https://img.shields.io/badge/scikit--learn-0a192f?style=flat-square&logo=scikitlearn&logoColor=64ffda" alt="scikit-learn" />
-    <img src="https://img.shields.io/badge/UEBA-0a192f?style=flat-square" alt="UEBA" />
-    <img src="https://img.shields.io/badge/GraphRAG-0a192f?style=flat-square" alt="GraphRAG" />
+    <img src="https://img.shields.io/badge/Model_Context_Protocol_%28MCP%29-0a192f?style=flat-square&logo=modelcontextprotocol&logoColor=64ffda" alt="Model Context Protocol (MCP)" />
+    <img src="https://img.shields.io/badge/ReAct_Agents-0a192f?style=flat-square" alt="ReAct Agents" />
+    <img src="https://img.shields.io/badge/LangChain-0a192f?style=flat-square&logo=langchain&logoColor=64ffda" alt="LangChain" />
+    <img src="https://img.shields.io/badge/ARQ-0a192f?style=flat-square" alt="ARQ" />
+    <img src="https://img.shields.io/badge/RAG-0a192f?style=flat-square" alt="RAG" />
+    <img src="https://img.shields.io/badge/Vector_Search-0a192f?style=flat-square" alt="Vector Search" />
+    <img src="https://img.shields.io/badge/Langfuse-0a192f?style=flat-square" alt="Langfuse" />
     </td>
   </tr>
   <tr>
-    <td width="150"><b>Cloud and DevSecOps</b></td>
+    <td width="170"><b>Security Tools</b></td>
     <td>
-    <img src="https://img.shields.io/badge/Kubernetes-0a192f?style=flat-square&logo=kubernetes&logoColor=64ffda" alt="Kubernetes" />
-    <img src="https://img.shields.io/badge/Docker-0a192f?style=flat-square&logo=docker&logoColor=64ffda" alt="Docker" />
-    <img src="https://img.shields.io/badge/Terraform-0a192f?style=flat-square&logo=terraform&logoColor=64ffda" alt="Terraform" />
+    <img src="https://img.shields.io/badge/Splunk-0a192f?style=flat-square&logo=splunk&logoColor=64ffda" alt="Splunk" />
+    <img src="https://img.shields.io/badge/Caldera-0a192f?style=flat-square" alt="Caldera" />
+    <img src="https://img.shields.io/badge/Grype-0a192f?style=flat-square" alt="Grype" />
+    <img src="https://img.shields.io/badge/Sysmon-0a192f?style=flat-square" alt="Sysmon" />
+    <img src="https://img.shields.io/badge/Wazuh-0a192f?style=flat-square" alt="Wazuh" />
+    <img src="https://img.shields.io/badge/ELK_Stack-0a192f?style=flat-square&logo=elasticstack&logoColor=64ffda" alt="ELK Stack" />
+    <img src="https://img.shields.io/badge/MISP-0a192f?style=flat-square" alt="MISP" />
+    <img src="https://img.shields.io/badge/CrowdSec-0a192f?style=flat-square" alt="CrowdSec" />
+    <img src="https://img.shields.io/badge/Nmap-0a192f?style=flat-square" alt="Nmap" />
+    <img src="https://img.shields.io/badge/Metasploit-0a192f?style=flat-square&logo=metasploit&logoColor=64ffda" alt="Metasploit" />
+    <img src="https://img.shields.io/badge/Nessus-0a192f?style=flat-square" alt="Nessus" />
+    </td>
+  </tr>
+  <tr>
+    <td width="170"><b>Cloud &amp; Infra</b></td>
+    <td>
     <img src="https://img.shields.io/badge/AWS-0a192f?style=flat-square" alt="AWS" />
+    <img src="https://img.shields.io/badge/Oracle_Cloud-0a192f?style=flat-square" alt="Oracle Cloud" />
+    <img src="https://img.shields.io/badge/Kubernetes-0a192f?style=flat-square&logo=kubernetes&logoColor=64ffda" alt="Kubernetes" />
+    <img src="https://img.shields.io/badge/Ansible-0a192f?style=flat-square&logo=ansible&logoColor=64ffda" alt="Ansible" />
+    <img src="https://img.shields.io/badge/Terraform-0a192f?style=flat-square&logo=terraform&logoColor=64ffda" alt="Terraform" />
+    <img src="https://img.shields.io/badge/Docker-0a192f?style=flat-square&logo=docker&logoColor=64ffda" alt="Docker" />
+    <img src="https://img.shields.io/badge/Proxmox-0a192f?style=flat-square&logo=proxmox&logoColor=64ffda" alt="Proxmox" />
+    <img src="https://img.shields.io/badge/Cloudflare-0a192f?style=flat-square&logo=cloudflare&logoColor=64ffda" alt="Cloudflare" />
     <img src="https://img.shields.io/badge/Azure-0a192f?style=flat-square" alt="Azure" />
     <img src="https://img.shields.io/badge/GCP-0a192f?style=flat-square&logo=googlecloud&logoColor=64ffda" alt="GCP" />
-    <img src="https://img.shields.io/badge/GitHub_Actions-0a192f?style=flat-square&logo=githubactions&logoColor=64ffda" alt="GitHub Actions" />
-    <img src="https://img.shields.io/badge/Helm-0a192f?style=flat-square&logo=helm&logoColor=64ffda" alt="Helm" />
-    <img src="https://img.shields.io/badge/Argo_CD-0a192f?style=flat-square&logo=argo&logoColor=64ffda" alt="Argo CD" />
-    <img src="https://img.shields.io/badge/Cloudflare-0a192f?style=flat-square&logo=cloudflare&logoColor=64ffda" alt="Cloudflare" />
     <img src="https://img.shields.io/badge/Linux-0a192f?style=flat-square&logo=linux&logoColor=64ffda" alt="Linux" />
+    <img src="https://img.shields.io/badge/Windows-0a192f?style=flat-square" alt="Windows" />
     </td>
   </tr>
   <tr>
-    <td width="150"><b>Languages</b></td>
+    <td width="170"><b>Languages</b></td>
     <td>
     <img src="https://img.shields.io/badge/Python-0a192f?style=flat-square&logo=python&logoColor=64ffda" alt="Python" />
-    <img src="https://img.shields.io/badge/TypeScript-0a192f?style=flat-square&logo=typescript&logoColor=64ffda" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/Go-0a192f?style=flat-square&logo=go&logoColor=64ffda" alt="Go" />
-    <img src="https://img.shields.io/badge/Rust-0a192f?style=flat-square&logo=rust&logoColor=64ffda" alt="Rust" />
     <img src="https://img.shields.io/badge/Bash-0a192f?style=flat-square&logo=gnubash&logoColor=64ffda" alt="Bash" />
+    <img src="https://img.shields.io/badge/SPL-0a192f?style=flat-square" alt="SPL" />
+    <img src="https://img.shields.io/badge/PowerShell-0a192f?style=flat-square" alt="PowerShell" />
+    <img src="https://img.shields.io/badge/TypeScript-0a192f?style=flat-square&logo=typescript&logoColor=64ffda" alt="TypeScript" />
     <img src="https://img.shields.io/badge/C%2B%2B-0a192f?style=flat-square&logo=cplusplus&logoColor=64ffda" alt="C++" />
+    </td>
+  </tr>
+  <tr>
+    <td width="170"><b>IoT / Embedded</b></td>
+    <td>
+    <img src="https://img.shields.io/badge/ESP32-0a192f?style=flat-square&logo=espressif&logoColor=64ffda" alt="ESP32" />
+    <img src="https://img.shields.io/badge/ESP8266-0a192f?style=flat-square&logo=espressif&logoColor=64ffda" alt="ESP8266" />
+    <img src="https://img.shields.io/badge/PlatformIO-0a192f?style=flat-square&logo=platformio&logoColor=64ffda" alt="PlatformIO" />
+    <img src="https://img.shields.io/badge/MQTT-0a192f?style=flat-square&logo=mqtt&logoColor=64ffda" alt="MQTT" />
+    <img src="https://img.shields.io/badge/Raspberry_Pi-0a192f?style=flat-square&logo=raspberrypi&logoColor=64ffda" alt="Raspberry Pi" />
+    <img src="https://img.shields.io/badge/Arduino-0a192f?style=flat-square&logo=arduino&logoColor=64ffda" alt="Arduino" />
     </td>
   </tr>
 </table>
@@ -138,9 +158,7 @@ I work where cybersecurity meets AI: ML-driven behavioural analytics, autonomous
 
 **Founder and organiser.** Monthly CTFs and workshops across red team challenges and blue team defence drills.
 
-<img src="https://img.shields.io/badge/CTFs-20%2B_monthly-ff6b6b?style=for-the-badge&labelColor=0a192f" alt="20+ monthly CTFs" />
-<img src="https://img.shields.io/badge/Attendees-500%2B-64ffda?style=for-the-badge&labelColor=0a192f" alt="500+ attendees" />
-<img src="https://img.shields.io/badge/Core_team-25%2B-4dabf7?style=for-the-badge&labelColor=0a192f" alt="25+ core team" />
+<img src="https://img.shields.io/badge/Members-3000%2B-64ffda?style=for-the-badge&labelColor=0a192f" alt="3000+ members" />
 
 <br />
 
