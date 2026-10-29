@@ -16,7 +16,7 @@
 I work where cybersecurity meets AI: ML-driven behavioural analytics, autonomous investigation agents, and detection engineering pipelines that help security teams find threats faster and more accurately.
 
 - 🔭 **Focus:** UEBA, detection engineering, LangGraph agents, MCP tooling
-- 📍 **Based in:** Bengaluru, India (originally from Kolkata)
+- 📍 **Based in:** Bengaluru, India
 - 🎓 **Education:** B.Tech Computer Science (Cybersecurity), SRM Institute of Science and Technology, 2024, CGPA 9.28
 - 🥷 **Community:** Founder of the Hack The Box Meetup, Chennai
 - 💬 **Ask me about:** insider-threat analytics, Active Directory detection, AI agents for the SOC, cloud security
@@ -39,7 +39,6 @@ I work where cybersecurity meets AI: ML-driven behavioural analytics, autonomous
     <img src="https://img.shields.io/badge/UEBA-0a192f?style=flat-square" alt="UEBA" />
     <img src="https://img.shields.io/badge/Threat_Hunting-0a192f?style=flat-square" alt="Threat Hunting" />
     <img src="https://img.shields.io/badge/MITRE_ATT%26CK-0a192f?style=flat-square" alt="MITRE ATT&CK" />
-    <img src="https://img.shields.io/badge/Sigma_Rules-0a192f?style=flat-square" alt="Sigma Rules" />
     <img src="https://img.shields.io/badge/Adversary_Emulation-0a192f?style=flat-square" alt="Adversary Emulation" />
     <img src="https://img.shields.io/badge/Active_Directory_Security-0a192f?style=flat-square" alt="Active Directory Security" />
     <img src="https://img.shields.io/badge/Cloud_Security-0a192f?style=flat-square" alt="Cloud Security" />
