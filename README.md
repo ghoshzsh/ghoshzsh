@@ -100,7 +100,25 @@ I work where cybersecurity meets AI: ML-driven behavioural analytics, autonomous
 ## GitHub activity
 
 <div align="center">
-  <img src="https://github-stats-xi-six.vercel.app/api/stats?user=ghoshzsh&theme=glass" alt="GitHub stats" width="495" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/prussian/1-repos-per-language.svg" />
+    <img alt="Top languages by repository" src="profile-summary-card-output/github/1-repos-per-language.svg" width="49%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/prussian/2-most-commit-language.svg" />
+    <img alt="Top languages by commit" src="profile-summary-card-output/github/2-most-commit-language.svg" width="49%" />
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/prussian/3-stats.svg" />
+    <img alt="GitHub stats" src="profile-summary-card-output/github/3-stats.svg" width="49%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/prussian/4-productive-time.svg" />
+    <img alt="Commits by hour of day" src="profile-summary-card-output/github/4-productive-time.svg" width="49%" />
+  </picture>
 </div>
 
 <br />
