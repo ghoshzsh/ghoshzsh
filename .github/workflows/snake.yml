@@ -19,11 +19,12 @@ jobs:
         with:
           fetch-depth: 0
       - name: Generate Snake Game
-        uses: Platane/snk@v1
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ghoshzsh
-          gif_out_path: dist/github-snake.gif
-          svg_out_path: dist/github-snake.svg
+          outputs: |
+            dist/github-snake.svg?color_snake=#0a192f&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
+            dist/github-snake-dark.svg?color_snake=#64ffda&color_dots=#161b22,#0e4d4a,#128c7e,#2dd4bf,#64ffda
       - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="262" viewBox="0 0 1200 262" role="img" aria-labelledby="t">
+  <title id="t">What I do: detection engineering, AI for security operations, cloud and DevSecOps</title>
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#112240"/>
+      <stop offset="1" stop-color="#0a192f"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .sans { font-family: -apple-system,'Segoe UI',Helvetica,Arial,sans-serif; }
+    .h { font-size: 25px; font-weight: 700; fill: #e6f1ff; }
+    .p { font-size: 17px; fill: #a8b2d1; }
+    .box { fill: url(#card); stroke: #64ffda; stroke-opacity: .22; }
+    .bar { fill: #64ffda; }
+    .ico { fill: none; stroke: #64ffda; stroke-width: 2.4; stroke-linecap: round; stroke-linejoin: round; }
+    .dot { fill: #64ffda; }
+  </style>
+
+  <!-- 1: detection engineering -->
+  <rect class="box" x="1" y="1" width="378" height="260" rx="14"/>
+  <rect class="bar" x="1" y="1" width="378" height="4" rx="2"/>
+  <g transform="translate(30 32)">
+    <circle class="ico" cx="16" cy="16" r="12"/>
+    <path class="ico" d="M25 25 L36 36"/>
+    <path class="ico" d="M10 16 H14 L16 11 L19 21 L21 16 H22"/>
+  </g>
+  <text class="sans h" x="30" y="112">Detection Engineering</text>
+  <text class="sans p" x="30" y="148">UEBA with unsupervised ML on Splunk</text>
+  <text class="sans p" x="30" y="174">DSDL. Sigma rules, AD threat detection</text>
+  <text class="sans p" x="30" y="200">and Caldera attack simulation for</text>
+  <text class="sans p" x="30" y="226">stronger detection coverage.</text>
+
+  <!-- 2: AI for security operations -->
+  <rect class="box" x="411" y="1" width="378" height="260" rx="14"/>
+  <rect class="bar" x="411" y="1" width="378" height="4" rx="2"/>
+  <g transform="translate(440 32)">
+    <path class="ico" d="M8 30 L22 10 L36 28 M8 30 L36 28"/>
+    <circle class="dot" cx="8" cy="30" r="4.5"/>
+    <circle class="dot" cx="22" cy="10" r="4.5"/>
+    <circle class="dot" cx="36" cy="28" r="4.5"/>
+  </g>
+  <text class="sans h" x="440" y="112">AI for Security Ops</text>
+  <text class="sans p" x="440" y="148">LangGraph agents that investigate</text>
+  <text class="sans p" x="440" y="174">Splunk alerts end to end through an</text>
+  <text class="sans p" x="440" y="200">MCP tool stack. GraphRAG over logs</text>
+  <text class="sans p" x="440" y="226">for threat intelligence.</text>
+
+  <!-- 3: cloud and DevSecOps -->
+  <rect class="box" x="821" y="1" width="378" height="260" rx="14"/>
+  <rect class="bar" x="821" y="1" width="378" height="4" rx="2"/>
+  <g transform="translate(850 32)">
+    <path class="ico" d="M11 32 H32 A8 8 0 0 0 32 16 A12 12 0 0 0 9 19 A7 7 0 0 0 11 32 Z"/>
+    <path class="ico" d="M22 20 V28 M18 24 H26"/>
+  </g>
+  <text class="sans h" x="850" y="112">Cloud and DevSecOps</text>
+  <text class="sans p" x="850" y="148">Model training and inference on</text>
+  <text class="sans p" x="850" y="174">Kubernetes. CloudTrail anomaly</text>
+  <text class="sans p" x="850" y="200">detection. Terraform across AWS,</text>
+  <text class="sans p" x="850" y="226">Azure and GCP.</text>
+</svg>
