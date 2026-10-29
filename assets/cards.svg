@@ -25,10 +25,10 @@
     <path class="ico" d="M10 16 H14 L16 11 L19 21 L21 16 H22"/>
   </g>
   <text class="sans h" x="30" y="112">Detection Engineering</text>
-  <text class="sans p" x="30" y="148">UEBA with unsupervised ML on Splunk</text>
-  <text class="sans p" x="30" y="174">DSDL. Sigma rules, AD threat detection</text>
-  <text class="sans p" x="30" y="200">and Caldera attack simulation for</text>
-  <text class="sans p" x="30" y="226">stronger detection coverage.</text>
+  <text class="sans p" x="30" y="148">UEBA with unsupervised ML on</text>
+  <text class="sans p" x="30" y="174">Splunk DSDL, plus Sigma rules,</text>
+  <text class="sans p" x="30" y="200">AD threat detection and Caldera</text>
+  <text class="sans p" x="30" y="226">attack simulation.</text>
 
   <!-- 2: AI for security operations -->
   <rect class="box" x="411" y="1" width="378" height="260" rx="14"/>
@@ -41,9 +41,9 @@
   </g>
   <text class="sans h" x="440" y="112">AI for Security Ops</text>
   <text class="sans p" x="440" y="148">LangGraph agents that investigate</text>
-  <text class="sans p" x="440" y="174">Splunk alerts end to end through an</text>
-  <text class="sans p" x="440" y="200">MCP tool stack. GraphRAG over logs</text>
-  <text class="sans p" x="440" y="226">for threat intelligence.</text>
+  <text class="sans p" x="440" y="174">Splunk alerts end to end through</text>
+  <text class="sans p" x="440" y="200">an MCP tool stack. GraphRAG over</text>
+  <text class="sans p" x="440" y="226">logs for threat intelligence.</text>
 
   <!-- 3: cloud and DevSecOps -->
   <rect class="box" x="821" y="1" width="378" height="260" rx="14"/>

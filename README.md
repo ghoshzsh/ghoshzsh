@@ -1,182 +1,225 @@
-# Hi 👋, I'm Aniruddha Ghosh
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ghoshzsh&label=Profile%20views&color=0e75b6&style=flat" alt="ghoshzsh" />
-</p>
-
-<h3 align="center">Cybersecurity Engineer × AI Practitioner</h3>
-
-<p align="center">
-  <a href="https://iamghosh.in"><img src="https://img.shields.io/badge/Portfolio-iamghosh.in-64ffda?style=for-the-badge&logo=github&logoColor=0a192f" /></a>
-  <a href="https://www.meetup.com/chennai-in/"><img src="https://img.shields.io/badge/HTB_Chennai-Founder-ff6b6b?style=for-the-badge&logo=hackthebox&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ghoshzsh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
----
-
-## 🐍 Snake Game (Contribution Graph)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ghoshzsh/ghoshzsh/main/dist/github-snake.svg" alt="Snake Game" />
-</p>
-
----
-
-## 📊 GitHub Stats (Glassmorphism)
-
 <div align="center">
-  <img src="https://github-stats-xi-six.vercel.app/api/stats?user=ghoshzsh&theme=glass" alt="GitHub Stats" />
+
+<img src="assets/banner.svg" alt="Aniruddha Ghosh - Cybersecurity Engineer and AI Practitioner" width="100%" />
+
+  <a href="https://iamghosh.in"><img src="https://img.shields.io/badge/Portfolio-iamghosh.in-64ffda?style=for-the-badge&labelColor=0a192f&logo=googlechrome&logoColor=64ffda" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/ghoshzsh"><img src="https://img.shields.io/badge/LinkedIn-ghoshzsh-0a66c2?style=for-the-badge&labelColor=0a192f" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/ghoshzsh"><img src="https://img.shields.io/badge/X-%40ghoshzsh-e6f1ff?style=for-the-badge&labelColor=0a192f&logo=x&logoColor=e6f1ff" alt="X" /></a>
+  <a href="https://www.youtube.com/@DevSecNetLabs"><img src="https://img.shields.io/badge/YouTube-DevSecNetLabs-ff0000?style=for-the-badge&labelColor=0a192f&logo=youtube&logoColor=ff0000" alt="YouTube" /></a>
+  <a href="mailto:aniruddha.ghosh@protonmail.com"><img src="https://img.shields.io/badge/Email-aniruddha.ghosh%40protonmail.com-6d4aff?style=for-the-badge&labelColor=0a192f&logo=protonmail&logoColor=6d4aff" alt="Email" /></a>
+
 </div>
 
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## About
+
+I work where cybersecurity meets AI: ML-driven behavioural analytics, autonomous investigation agents, and detection engineering pipelines that help security teams find threats faster and more accurately.
+
+- 🔭 **Focus:** UEBA, detection engineering, LangGraph agents, MCP tooling
+- 📍 **Based in:** Bengaluru, India (originally from Kolkata)
+- 🎓 **Education:** B.Tech Computer Science (Cybersecurity), SRM Institute of Science and Technology, 2024, CGPA 9.28
+- 🥷 **Community:** Founder of the Hack The Box Meetup, Chennai
+- 💬 **Ask me about:** insider-threat analytics, Active Directory detection, AI agents for the SOC, cloud security
+
+<br />
+
+<img src="assets/cards.svg" alt="What I do: detection engineering, AI for security operations, cloud and DevSecOps" width="100%" />
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/ghoshzsh/Cyber-GraphRAG">Cyber-GraphRAG</a></h4>
+      <p><sub><code>Python</code> <code>LangGraph</code> <code>GraphRAG</code> <code>MCP</code></sub></p>
+      <p>Turns raw security logs into a knowledge graph, enriches it with embeddings and graph traversal, and lets a LangGraph ReAct agent investigate through MCP security tools.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/ghoshzsh/crowdsec-mcp">crowdsec-mcp</a></h4>
+      <p><sub><code>Python</code> <code>FastMCP</code> <code>CrowdSec</code></sub></p>
+      <p>A FastMCP server that exposes CrowdSec alert queries to AI agents, with a SOC agent built on top.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/ghoshzsh/cloudflare-workers">cloudflare-workers</a></h4>
+      <p><sub><code>TypeScript</code> <code>Cloudflare</code> <code>R2</code></sub></p>
+      <p>A serverless edge security pipeline: IP filtering, blacklist validation, rate limiting and event logging on KV, Durable Objects and R2 before a request is forwarded or blocked.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/ghoshzsh/active-directory-event-detection-handbook">AD Event Detection Handbook</a></h4>
+      <p><sub><code>Splunk</code> <code>Sigma</code> <code>Caldera</code> <code>PowerShell</code></sub></p>
+      <p>A guide to detecting and monitoring critical Active Directory events with Splunk, for security teams and incident responders.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/ghoshzsh/home-automation">home-automation</a></h4>
+      <p><sub><code>Home Assistant</code> <code>ESPHome</code></sub></p>
+      <p>Home Assistant and ESPHome configuration, code and documentation for a smart home, updated as new automations land.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/ghoshzsh/terraform-aws">Terraform multi-cloud</a></h4>
+      <p><sub><code>HCL</code> <code>Terraform</code></sub></p>
+      <p>Infrastructure as code on <a href="https://github.com/ghoshzsh/terraform-aws">AWS</a>, <a href="https://github.com/ghoshzsh/terraform-azure">Azure</a> and <a href="https://github.com/ghoshzsh/terraform-gcp">GCP</a> with Terraform.</p>
+    </td>
+  </tr>
+</table>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## Experience
+
+### EY - Senior Cybersecurity Analyst
+
+*Aug 2024 - Sep 2025*
+
+- Designed and deployed unsupervised ML models for UEBA use cases on Splunk DSDL, improving detection of insider threats and lateral movement across enterprise environments.
+- Improved Active Directory threat detection coverage by building a dedicated Splunk and Caldera lab to simulate attacks.
+- Received the **Client Extraordinaire Award** for contributions to UEBA use cases and the client's security posture.
+
+### EY - Associate Consultant
+
+- Built model training, updating and inference workflows on Kubernetes, cutting pipeline overhead and enabling low-latency threat detection in production.
+- Built an anomaly detection model for AWS CloudTrail activity to surface suspicious API call patterns and potential account compromise.
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## Toolbox
+
+<table>
+  <tr>
+    <td width="150"><b>Offensive</b></td>
+    <td>
+    <img src="https://img.shields.io/badge/Burp_Suite-0a192f?style=flat-square&logo=burpsuite&logoColor=64ffda" alt="Burp Suite" />
+    <img src="https://img.shields.io/badge/Metasploit-0a192f?style=flat-square&logo=metasploit&logoColor=64ffda" alt="Metasploit" />
+    <img src="https://img.shields.io/badge/Nmap-0a192f?style=flat-square" alt="Nmap" />
+    <img src="https://img.shields.io/badge/Cobalt_Strike-0a192f?style=flat-square" alt="Cobalt Strike" />
+    <img src="https://img.shields.io/badge/BloodHound-0a192f?style=flat-square&logo=neo4j&logoColor=64ffda" alt="BloodHound" />
+    <img src="https://img.shields.io/badge/MITRE_ATT%26CK-0a192f?style=flat-square" alt="MITRE ATT&CK" />
+    <img src="https://img.shields.io/badge/Kali_Linux-0a192f?style=flat-square&logo=kalilinux&logoColor=64ffda" alt="Kali Linux" />
+    </td>
+  </tr>
+  <tr>
+    <td width="150"><b>Defensive</b></td>
+    <td>
+    <img src="https://img.shields.io/badge/Splunk-0a192f?style=flat-square&logo=splunk&logoColor=64ffda" alt="Splunk" />
+    <img src="https://img.shields.io/badge/Elastic-0a192f?style=flat-square&logo=elasticsearch&logoColor=64ffda" alt="Elastic" />
+    <img src="https://img.shields.io/badge/Wazuh-0a192f?style=flat-square" alt="Wazuh" />
+    <img src="https://img.shields.io/badge/Zeek-0a192f?style=flat-square" alt="Zeek" />
+    <img src="https://img.shields.io/badge/Sysmon-0a192f?style=flat-square" alt="Sysmon" />
+    <img src="https://img.shields.io/badge/Sigma-0a192f?style=flat-square" alt="Sigma" />
+    <img src="https://img.shields.io/badge/Wireshark-0a192f?style=flat-square&logo=wireshark&logoColor=64ffda" alt="Wireshark" />
+    </td>
+  </tr>
+  <tr>
+    <td width="150"><b>AI and ML</b></td>
+    <td>
+    <img src="https://img.shields.io/badge/LangGraph-0a192f?style=flat-square&logo=langchain&logoColor=64ffda" alt="LangGraph" />
+    <img src="https://img.shields.io/badge/MCP-0a192f?style=flat-square&logo=modelcontextprotocol&logoColor=64ffda" alt="MCP" />
+    <img src="https://img.shields.io/badge/PyTorch-0a192f?style=flat-square&logo=pytorch&logoColor=64ffda" alt="PyTorch" />
+    <img src="https://img.shields.io/badge/scikit--learn-0a192f?style=flat-square&logo=scikitlearn&logoColor=64ffda" alt="scikit-learn" />
+    <img src="https://img.shields.io/badge/UEBA-0a192f?style=flat-square" alt="UEBA" />
+    <img src="https://img.shields.io/badge/GraphRAG-0a192f?style=flat-square" alt="GraphRAG" />
+    </td>
+  </tr>
+  <tr>
+    <td width="150"><b>Cloud and DevSecOps</b></td>
+    <td>
+    <img src="https://img.shields.io/badge/Kubernetes-0a192f?style=flat-square&logo=kubernetes&logoColor=64ffda" alt="Kubernetes" />
+    <img src="https://img.shields.io/badge/Docker-0a192f?style=flat-square&logo=docker&logoColor=64ffda" alt="Docker" />
+    <img src="https://img.shields.io/badge/Terraform-0a192f?style=flat-square&logo=terraform&logoColor=64ffda" alt="Terraform" />
+    <img src="https://img.shields.io/badge/AWS-0a192f?style=flat-square" alt="AWS" />
+    <img src="https://img.shields.io/badge/Azure-0a192f?style=flat-square" alt="Azure" />
+    <img src="https://img.shields.io/badge/GCP-0a192f?style=flat-square&logo=googlecloud&logoColor=64ffda" alt="GCP" />
+    <img src="https://img.shields.io/badge/GitHub_Actions-0a192f?style=flat-square&logo=githubactions&logoColor=64ffda" alt="GitHub Actions" />
+    <img src="https://img.shields.io/badge/Helm-0a192f?style=flat-square&logo=helm&logoColor=64ffda" alt="Helm" />
+    <img src="https://img.shields.io/badge/Argo_CD-0a192f?style=flat-square&logo=argo&logoColor=64ffda" alt="Argo CD" />
+    <img src="https://img.shields.io/badge/Cloudflare-0a192f?style=flat-square&logo=cloudflare&logoColor=64ffda" alt="Cloudflare" />
+    <img src="https://img.shields.io/badge/Linux-0a192f?style=flat-square&logo=linux&logoColor=64ffda" alt="Linux" />
+    </td>
+  </tr>
+  <tr>
+    <td width="150"><b>Languages</b></td>
+    <td>
+    <img src="https://img.shields.io/badge/Python-0a192f?style=flat-square&logo=python&logoColor=64ffda" alt="Python" />
+    <img src="https://img.shields.io/badge/TypeScript-0a192f?style=flat-square&logo=typescript&logoColor=64ffda" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Go-0a192f?style=flat-square&logo=go&logoColor=64ffda" alt="Go" />
+    <img src="https://img.shields.io/badge/Rust-0a192f?style=flat-square&logo=rust&logoColor=64ffda" alt="Rust" />
+    <img src="https://img.shields.io/badge/Bash-0a192f?style=flat-square&logo=gnubash&logoColor=64ffda" alt="Bash" />
+    <img src="https://img.shields.io/badge/C%2B%2B-0a192f?style=flat-square&logo=cplusplus&logoColor=64ffda" alt="C++" />
+    </td>
+  </tr>
+</table>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## GitHub activity
+
 <div align="center">
-  <img src="https://github-stats-xi-six.vercel.app/api/top-repos?user=ghoshzsh&theme=glass" alt="Top Repositories" />
+  <img src="https://github-stats-xi-six.vercel.app/api/stats?user=ghoshzsh&theme=glass" alt="GitHub stats" width="495" />
 </div>
 
----
-
-## 💻 Terminal Contribution Graph
+<br />
 
 <div align="center">
-  <img src="https://github-readme-insight-terminal-asci.vercel.app/svg?user=ghoshzsh&theme=ubuntu&scale=0.8" alt="Terminal Contribution Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+    <img alt="Contribution graph snake" src="dist/github-snake.svg" width="100%" />
+  </picture>
 </div>
 
----
-
-## 🌌 Gravity Animation
+<br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ghoshzsh/ghoshzsh/main/dist/gravity.svg" alt="Gravity Animation" />
+  <img src="dist/gravity.svg" alt="Contribution dots falling onto the name GHOSHZSH" width="64%" align="middle" />
+  <img src="output/bonsai.svg" alt="A pixel-art bonsai that grows with commits" width="33%" align="middle" />
 </div>
 
----
+<br />
 
-## 🌳 Git Bonsai
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## Certifications
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ghoshzsh/ghoshzsh/main/dist/bonsai.svg" alt="Git Bonsai" width="400" />
+  <a href="https://www.alteredsecurity.com/adlab"><img src="https://img.shields.io/badge/CRTP-Certified-ff6b6b?style=for-the-badge&labelColor=0a192f&logo=hackthebox&logoColor=ff6b6b" alt="CRTP" /></a>
+  <a href="https://www.credly.com/badges/729ffe59-6d01-4ac8-bcf1-e92daa29f832/public_url"><img src="https://img.shields.io/badge/ISC2%20CC-Certified-4dabf7?style=for-the-badge&labelColor=0a192f&logo=isc2&logoColor=4dabf7" alt="ISC2 CC" /></a>
+  <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=nTBj9hoT/MAHqeqS6uD+qEpZqxfjSasetsBqddymsnw="><img src="https://img.shields.io/badge/CEH%20v11-Certified-da77f2?style=for-the-badge&labelColor=0a192f" alt="CEH v11" /></a>
+  <a href="https://rhtapps.redhat.com/verify?certId=220-145-494"><img src="https://img.shields.io/badge/RHCE-Certified-ee0000?style=for-the-badge&labelColor=0a192f&logo=redhat&logoColor=ee0000" alt="RHCE" /></a>
+  <a href="https://rhtapps.redhat.com/verify?certId=220-145-494"><img src="https://img.shields.io/badge/RHCSA-Certified-ee0000?style=for-the-badge&labelColor=0a192f&logo=redhat&logoColor=ee0000" alt="RHCSA" /></a>
+  <a href="https://www.salesforce.com/trailblazer/aghosh0605"><img src="https://img.shields.io/badge/Salesforce%20Associate-Certified-00a1e0?style=for-the-badge&labelColor=0a192f" alt="Salesforce Associate" /></a>
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ghoshzsh&theme=onedark&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghoshzsh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🛠️ Skills Matrix
-
-### 🔴 Red Team / Offensive
-<p>
-  <img src="https://skillicons.dev/icons?i=burpsuite,metasploit,nmap" height="40" alt="Red Team Tools" />
-  <img src="https://img.shields.io/badge/Cobalt%20Strike-000000?style=flat-square&logo=cobaltstrike&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/BloodHound-000000?style=flat-square&logo=neo4j&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-000000?style=flat-square&logo=mitre&logoColor=white" height="40" />
-</p>
-
-### 🔵 Blue Team / Defensive
-<p>
-  <img src="https://skillicons.dev/icons?i=splunk,elastic,kafka" height="40" alt="Blue Team Tools" />
-  <img src="https://img.shields.io/badge/Wazuh-000000?style=flat-square&logo=wazuh&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/Sigma-000000?style=flat-square&logo=github&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/Zeek-000000?style=flat-square&logo=zeek&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/Sysmon-000000?style=flat-square&logo=windows&logoColor=white" height="40" />
-</p>
-
-### 🟣 AI / ML Security
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,python" height="40" alt="AI/ML Tools" />
-  <img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=langchain&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/UEBA-000000?style=flat-square&logo=databricks&logoColor=white" height="40" />
-</p>
-
-### ☁️ Cloud / DevSecOps
-<p>
-  <img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,aws,githubactions,linux" height="40" alt="Cloud/DevSecOps Tools" />
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argocd&logoColor=white" height="40" />
-</p>
-
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,go,rust,bash,cpp" height="40" alt="Programming Languages" />
-</p>
-
----
-
-## 🏅 Certifications
+## Community
 
 <div align="center">
-  <a href="https://www.alteredsecurity.com/adlab"><img src="https://img.shields.io/badge/CRTP-Certified-ff6b6b?style=for-the-badge&logo=hackthebox&logoColor=white" /></a>
-  <a href="https://www.credly.com/badges/729ffe59-6d01-4ac8-bcf1-e92daa29f832/public_url"><img src="https://img.shields.io/badge/ISC2_CC-Certified-4dabf7?style=for-the-badge&logo=isc2&logoColor=white" /></a>
-  <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=nTBj9hoT/MAHqeqS6uD+qEpZqxfjSasetsBqddymsnw="><img src="https://img.shields.io/badge/CEHv11-Certified-da77f2?style=for-the-badge&logo=ec-council&logoColor=white" /></a>
-  <a href="https://rhtapps.redhat.com/verify?certId=220-145-494"><img src="https://img.shields.io/badge/RHCE-Certified-ee0000?style=for-the-badge&logo=redhat&logoColor=white" /></a>
-  <a href="https://rhtapps.redhat.com/verify?certId=220-145-494"><img src="https://img.shields.io/badge/RHCSA-Certified-ee0000?style=for-the-badge&logo=redhat&logoColor=white" /></a>
-  <a href="https://www.salesforce.com/trailblazer/aghosh0605"><img src="https://img.shields.io/badge/Salesforce_Associate-Certified-00a1e0?style=for-the-badge&logo=salesforce&logoColor=white" /></a>
+
+### Hack The Box Meetup, Chennai
+
+**Founder and organiser.** Monthly CTFs and workshops across red team challenges and blue team defence drills.
+
+<img src="https://img.shields.io/badge/CTFs-20%2B_monthly-ff6b6b?style=for-the-badge&labelColor=0a192f" alt="20+ monthly CTFs" />
+<img src="https://img.shields.io/badge/Attendees-500%2B-64ffda?style=for-the-badge&labelColor=0a192f" alt="500+ attendees" />
+<img src="https://img.shields.io/badge/Core_team-25%2B-4dabf7?style=for-the-badge&labelColor=0a192f" alt="25+ core team" />
+
+<br />
+
+<a href="https://www.meetup.com/chennai-in/"><img src="https://img.shields.io/badge/Join_the_Meetup-ff6b6b?style=flat-square&logo=meetup&logoColor=white" alt="Join the Meetup" /></a>
+<a href="https://htbchennai.in/"><img src="https://img.shields.io/badge/htbchennai.in-0a192f?style=flat-square&logo=hackthebox&logoColor=64ffda" alt="htbchennai.in" /></a>
+
 </div>
 
----
-
-## 🌟 Community
+<br />
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h3>🥷 Hack The Box Chennai</h3>
-        <p><strong>Founder & Organizer</strong></p>
-        <p>20+ Monthly CTFs • 500+ Attendees • 25+ Core Team</p>
-        <a href="https://www.meetup.com/chennai-in/">
-          <img src="https://img.shields.io/badge/Join_Meetup-ff6b6b?style=for-the-badge&logo=meetup&logoColor=white" />
-        </a>
-        <br><br>
-        <a href="https://htbchennai.in/">
-          <img src="https://img.shields.io/badge/htbchennai.in-Visit_Site-64ffda?style=flat-square&logo=hackthebox&logoColor=0a192f" />
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <h3>🎓 Education</h3>
-        <p><strong>B.Tech Computer Science (Cybersecurity)</strong></p>
-        <p>SRM Institute of Science and Technology • 2024</p>
-        <p>CGPA: 9.28</p>
-        <br>
-        <h3>📍 Based in</h3>
-        <p>Bengaluru, India (Originally Kolkata)</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-  <a href="https://iamghosh.in"><img src="https://img.shields.io/badge/Portfolio-iamghosh.in-64ffda?style=for-the-badge&logo=github&logoColor=0a192f" /></a>
-  <a href="https://linkedin.com/in/ghoshzsh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/ghoshzsh"><img src="https://img.shields.io/badge/Twitter-@ghoshzsh-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@DevSecNetLabs"><img src="https://img.shields.io/badge/YouTube-DevSecNetLabs-ff0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://github.com/ghoshzsh"><img src="https://img.shields.io/badge/GitHub-ghoshzsh-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:aniruddha.ghosh@protonmail.com"><img src="https://img.shields.io/badge/Email-Contact-d14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ghoshzsh&label=Profile%20Views&color=64ffda&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
   <i>"I engineer AI systems that think like attackers."</i>
-</p>
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=ghoshzsh&label=Profile%20views&color=64ffda&labelColor=0a192f&style=flat-square" alt="Profile views" />
+</div>
