@@ -6,7 +6,6 @@
   <a href="https://linkedin.com/in/ghoshzsh"><img src="https://img.shields.io/badge/LinkedIn-ghoshzsh-0a66c2?style=for-the-badge&labelColor=0a192f" alt="LinkedIn" /></a>
   <a href="https://twitter.com/ghoshzsh"><img src="https://img.shields.io/badge/X-%40ghoshzsh-e6f1ff?style=for-the-badge&labelColor=0a192f&logo=x&logoColor=e6f1ff" alt="X" /></a>
   <a href="https://www.youtube.com/@DevSecNetLabs"><img src="https://img.shields.io/badge/YouTube-DevSecNetLabs-ff0000?style=for-the-badge&labelColor=0a192f&logo=youtube&logoColor=ff0000" alt="YouTube" /></a>
-  <a href="mailto:aniruddha.ghosh@protonmail.com"><img src="https://img.shields.io/badge/Email-aniruddha.ghosh%40protonmail.com-6d4aff?style=for-the-badge&labelColor=0a192f&logo=protonmail&logoColor=6d4aff" alt="Email" /></a>
 
 </div>
 
@@ -100,25 +99,8 @@ I work where cybersecurity meets AI: ML-driven behavioural analytics, autonomous
 ## GitHub activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/prussian/1-repos-per-language.svg" />
-    <img alt="Top languages by repository" src="profile-summary-card-output/github/1-repos-per-language.svg" width="49%" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/prussian/2-most-commit-language.svg" />
-    <img alt="Top languages by commit" src="profile-summary-card-output/github/2-most-commit-language.svg" width="49%" />
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/prussian/3-stats.svg" />
-    <img alt="GitHub stats" src="profile-summary-card-output/github/3-stats.svg" width="49%" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/prussian/4-productive-time.svg" />
-    <img alt="Commits by hour of day" src="profile-summary-card-output/github/4-productive-time.svg" width="49%" />
-  </picture>
+  <img src="https://github-stats-xi-six.vercel.app/api/stats?user=ghoshzsh&theme=glass" alt="GitHub stats" height="175" />
+  <img src="https://streak-stats.demolab.com/?user=ghoshzsh&theme=tokyonight&hide_border=true" alt="GitHub streak" height="175" />
 </div>
 
 <br />
