@@ -28,66 +28,6 @@ I work where cybersecurity meets AI: ML-driven behavioural analytics, autonomous
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## Featured projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/ghoshzsh/Cyber-GraphRAG">Cyber-GraphRAG</a></h4>
-      <p><sub><code>Python</code> <code>LangGraph</code> <code>GraphRAG</code> <code>MCP</code></sub></p>
-      <p>Turns raw security logs into a knowledge graph, enriches it with embeddings and graph traversal, and lets a LangGraph ReAct agent investigate through MCP security tools.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/ghoshzsh/crowdsec-mcp">crowdsec-mcp</a></h4>
-      <p><sub><code>Python</code> <code>FastMCP</code> <code>CrowdSec</code></sub></p>
-      <p>A FastMCP server that exposes CrowdSec alert queries to AI agents, with a SOC agent built on top.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/ghoshzsh/cloudflare-workers">cloudflare-workers</a></h4>
-      <p><sub><code>TypeScript</code> <code>Cloudflare</code> <code>R2</code></sub></p>
-      <p>A serverless edge security pipeline: IP filtering, blacklist validation, rate limiting and event logging on KV, Durable Objects and R2 before a request is forwarded or blocked.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/ghoshzsh/active-directory-event-detection-handbook">AD Event Detection Handbook</a></h4>
-      <p><sub><code>Splunk</code> <code>Sigma</code> <code>Caldera</code> <code>PowerShell</code></sub></p>
-      <p>A guide to detecting and monitoring critical Active Directory events with Splunk, for security teams and incident responders.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/ghoshzsh/home-automation">home-automation</a></h4>
-      <p><sub><code>Home Assistant</code> <code>ESPHome</code></sub></p>
-      <p>Home Assistant and ESPHome configuration, code and documentation for a smart home, updated as new automations land.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/ghoshzsh/terraform-aws">Terraform multi-cloud</a></h4>
-      <p><sub><code>HCL</code> <code>Terraform</code></sub></p>
-      <p>Infrastructure as code on <a href="https://github.com/ghoshzsh/terraform-aws">AWS</a>, <a href="https://github.com/ghoshzsh/terraform-azure">Azure</a> and <a href="https://github.com/ghoshzsh/terraform-gcp">GCP</a> with Terraform.</p>
-    </td>
-  </tr>
-</table>
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-## Experience
-
-### EY - Senior Cybersecurity Analyst
-
-*Aug 2024 - Sep 2025*
-
-- Designed and deployed unsupervised ML models for UEBA use cases on Splunk DSDL, improving detection of insider threats and lateral movement across enterprise environments.
-- Improved Active Directory threat detection coverage by building a dedicated Splunk and Caldera lab to simulate attacks.
-- Received the **Client Extraordinaire Award** for contributions to UEBA use cases and the client's security posture.
-
-### EY - Associate Consultant
-
-- Built model training, updating and inference workflows on Kubernetes, cutting pipeline overhead and enabling low-latency threat detection in production.
-- Built an anomaly detection model for AWS CloudTrail activity to surface suspicious API call patterns and potential account compromise.
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
 ## Toolbox
 
 <table>
@@ -171,13 +111,6 @@ I work where cybersecurity meets AI: ML-driven behavioural analytics, autonomous
     <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
     <img alt="Contribution graph snake" src="dist/github-snake.svg" width="100%" />
   </picture>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="dist/gravity.svg" alt="Contribution dots falling onto the name GHOSHZSH" width="64%" align="middle" />
-  <img src="output/bonsai.svg" alt="A pixel-art bonsai that grows with commits" width="33%" align="middle" />
 </div>
 
 <br />
