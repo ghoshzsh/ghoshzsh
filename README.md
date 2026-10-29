@@ -100,7 +100,7 @@ I work where cybersecurity meets AI: ML-driven behavioural analytics, autonomous
 
 <div align="center">
   <img src="https://github-stats-xi-six.vercel.app/api/stats?user=ghoshzsh&theme=glass" alt="GitHub stats" height="175" />
-  <img src="https://streak-stats.demolab.com/?user=ghoshzsh&theme=tokyonight&hide_border=true" alt="GitHub streak" height="175" />
+  <img src="https://streak-stats.demolab.com/?user=ghoshzsh&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20y%5D" alt="GitHub streak" height="175" />
 </div>
 
 <br />
