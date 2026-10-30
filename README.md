@@ -15,11 +15,11 @@
 
 I work where cybersecurity meets AI: ML-driven behavioural analytics, autonomous investigation agents, and detection engineering pipelines that help security teams find threats faster and more accurately.
 
-- 🔭 **Focus:** UEBA, detection engineering, LangGraph agents, MCP tooling
+- 🔭 **Focus:** UEBA, Detection Engineering, LangGraph Agents, MCP Tooling
 - 📍 **Based in:** Bengaluru, India
 - 🎓 **Education:** B.Tech Computer Science (Cybersecurity), SRM Institute of Science and Technology, 2024, CGPA 9.28
 - 🥷 **Community:** Founder of the Hack The Box Meetup, Chennai
-- 💬 **Ask me about:** insider-threat analytics, Active Directory detection, AI agents for the SOC, cloud security
+- 💬 **Ask me about:** Insider-Threat Analytics, Active Directory Detection, AI Agents for the SOC, Cloud Security
 
 <br />
 
